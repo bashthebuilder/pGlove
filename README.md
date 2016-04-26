@@ -1,3 +1,2 @@
-# ECAI-2016
+# Probabilistic GloVe codes
 
-Source codes to recreate ECAI-2016 results.
